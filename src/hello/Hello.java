@@ -7,6 +7,8 @@ public class Hello {
 
         System.out.println("hello world");
 
+        System.out.println("its a test for github");
+
 
     }
 
